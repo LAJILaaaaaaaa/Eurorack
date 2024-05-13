@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ctype.h": "c",
+        "ads1115.h": "c",
+        "i2c.h": "c",
+        "clocks.h": "c"
+    }
+}

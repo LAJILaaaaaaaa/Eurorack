@@ -1,0 +1,3 @@
+/Users/laaaaaaaa/Desktop/Eurorack/scope/build/pioasm/CMakeFiles/pioasm.dir
+/Users/laaaaaaaa/Desktop/Eurorack/scope/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/laaaaaaaa/Desktop/Eurorack/scope/build/pioasm/CMakeFiles/rebuild_cache.dir
