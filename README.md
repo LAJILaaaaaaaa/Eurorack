@@ -4,7 +4,8 @@
 开发者套件的目的是将Eurorack中常用的电路模块化，方便Eurorack开发者们在面包板上进行电路实验。
 
 ### [KEY_LED](/Developer%20Kit/KEY_LED/)
->这是一个带led灯的轻触开关模块
+>这是一个带led灯的轻触开关模块  
+>注意：未验证
 
 ## 信号和电压
 [电气规格参考链接](https://www.doepfer.de/a100_man/a100t_e.htm)  
