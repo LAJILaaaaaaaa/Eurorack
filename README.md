@@ -1,13 +1,12 @@
 # Eurorack
 
-[TOC]
-
 ## 模块尺寸规范
 [01] [物理规格参考链接_doepfer](https://www.doepfer.de/a100_man/a100m_e.htm)  
 [02] [物理规格参考链接_intellijel](https://intellijel.com/support/1u-technical-specifications/)
 
 ## 信号和电压
 [电气规格参考链接](https://www.doepfer.de/a100_man/a100t_e.htm)  
+
 ### 音频信号  
 >通常在10Vpp范围内（从-5V到+5V）。  
 
@@ -17,7 +16,9 @@
 ### 触发电压  
 >触发器、门或时钟信号，启动过程或功能，是矩形信号，典型电压电平为0/+5 V。在触发应用程序的情况下，通常是用于触发事件的信号的上升边缘。  
 
-## 模块制造商
+## 常用网站
+
+### 模块制造商
 - [makenoise](https://www.makenoisemusic.com)
 - [instruo](https://www.instruomodular.com)
 - [4ms](https://4mscompany.com)
@@ -33,6 +34,11 @@
 - [musicthing](https://www.musicthing.co.uk)
 - [abyssdevices](https://abyssdevices.com)
 - [monome](https://monome.org)
+
+### 其他
+- [thonk](https://www.thonk.co.uk)
+- [modulargrid](https://modulargrid.net)
+- [mouser](https://www.mouser.cn)
 
 ## 开发者套件
 开发者套件的目的是将Eurorack中常用的电路模块化，方便Eurorack开发者们在面包板上进行电路实验。
@@ -81,11 +87,6 @@
 2. 反相比例放大
 3. 加法器
 4. 电压跟随器
-
-## 常用网站
-- [thonk](https://www.thonk.co.uk)
-- [modulargrid](https://modulargrid.net)
-- [mouser](https://www.mouser.cn)
 
 ## 硬件驱动库
 - OLED
@@ -176,3 +177,7 @@ Kicad
   - 74hc595 移位寄存器
   - 74AHCT1G125
   - MAX7219 数码管驱动
+
+## 开源模块存储库
+
+> 存储一些开源的模块资料，防止丢失
